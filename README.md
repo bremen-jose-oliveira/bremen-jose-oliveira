@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Jose!  
+# 👋 Hello, I’m José!  
 ### Full Stack Developer | Tech Enthusiast | Lifelong Learner  
 
 🌍 **From:** Lagos, Portugal 🇵🇹  
