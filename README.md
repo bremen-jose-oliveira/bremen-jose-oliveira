@@ -34,13 +34,14 @@ public class DeveloperProfile {
         System.out.println("Collaboration: Strong believer in teamwork.");
     }
 
-    public String[] contactInfo() {
-        String[] contacts = {
-            "LinkedIn: https://www.linkedin.com/in/bremen-jose-oliveira/",
-            "Portfolio: https://jose-oliveira.de/",
-            "Email: jose.oliv@hotmail.de"
-        };
-        return contacts;
+    public void contactInfo() {
+        String linkedIn = "[🌐 LinkedIn](https://www.linkedin.com/in/bremen-jose-oliveira/)";
+        String portfolio = "[🌐 Portfolio](https://jose-oliveira.de/)";
+        String email = "[✉️ Email Me](mailto:jose.oliv@hotmail.de)";
+        
+        System.out.println("Connect with me: " + linkedIn);
+        System.out.println("Check out my work: " + portfolio);
+        System.out.println("Reach out via email: " + email);
     }
 
     public static void main(String[] args) {
@@ -48,7 +49,8 @@ public class DeveloperProfile {
         jose.aboutMe();
         jose.techStack();
         jose.coreValues();
-        System.out.println("Connect with me: " + Arrays.toString(jose.contactInfo()));
+        jose.contactInfo();
     }
 }
+
 
