@@ -51,5 +51,4 @@ Feel free to connect with me here or through any of the links below. I’m alway
 🌐 [LinkedIn](https://www.linkedin.com/in/bremen-jose-oliveira/)
 🌐 [Portofilo](https://jose-oliveira.de/)  
 
-✉️ [Email Me](mailto:jose.oliv@hotmail.de)
 
