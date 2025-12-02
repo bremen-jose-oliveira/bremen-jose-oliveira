@@ -95,16 +95,11 @@ I bring a unique perspective to software development, shaped by a diverse profes
 
 <div align="center">
 
-<a href="https://github.com/bremen-jose-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bremen-jose-oliveira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/bremen-jose-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bremen-jose-oliveira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bremen-jose-oliveira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bremen-jose-oliveira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 </div>
-
-
 
 ---
 
