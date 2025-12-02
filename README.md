@@ -1,4 +1,4 @@
-# Hi, I'm José!
+# 👋 Hello, I'm José!
 
 <div align="center">
 
@@ -90,28 +90,26 @@ I bring a unique perspective to software development, shaped by a diverse profes
 </div>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bremen-jose-oliveira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bremen-jose-oliveira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-
 </div>
 
 ---
--->
+
 ## 🌟 Core Values
 
 <div align="center">
 
-| 💡 | 🎯 | 🤝 |
-|:---:|:---:|:---:|
-| **Lifelong Learning** | **Problem Solving** | **Collaboration** |
+|                  💡                  |                                🎯                                |                               🤝                               |
+| :----------------------------------: | :--------------------------------------------------------------: | :------------------------------------------------------------: |
+|        **Lifelong Learning**         |                       **Problem Solving**                        |                       **Collaboration**                        |
 | Technology evolves fast, and so do I | I thrive on challenges, finding efficient and creative solutions | Strong believer in teamwork and building great things together |
 
 </div>
@@ -136,7 +134,6 @@ I bring a unique perspective to software development, shaped by a diverse profes
 
 ---
 
-⭐️ *From Portugal to Germany, from logistics to code - always learning, always growing* ⭐️
+⭐️ _From Portugal to Germany, from logistics to code - always learning, always growing_ ⭐️
 
 </div>
-
