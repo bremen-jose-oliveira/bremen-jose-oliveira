@@ -90,7 +90,7 @@ I bring a unique perspective to software development, shaped by a diverse profes
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,10 +99,15 @@ I bring a unique perspective to software development, shaped by a diverse profes
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bremen-jose-oliveira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=bremen-jose-oliveira&theme=radical&hide_border=true)
+
+![Last Commit](https://img.shields.io/github/last-commit/bremen-jose-oliveira/bremen-jose-oliveira)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/bremen-jose-oliveira/bremen-jose-oliveira)
+
 </div>
 
 ---
-
+-->
 ## 🌟 Core Values
 
 <div align="center">
